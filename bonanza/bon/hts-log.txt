@@ -1,0 +1,18 @@
+HTTrack3.49-2+htsswf+htsjava launched on Fri, 14 Jul 2023 04:53:37 at http://demogamesfree.pragmaticplay.net/gs2c/openGame.do?gameSymbol=vs20fruitsw&websiteUrl=https%3A%2F%2Fdemogamesfree.pragmaticplay.net&jurisdiction=99&lobby_url=https%3A%2F%2Fwww.pragmaticplay.com%2Fen%2F&lang=TR&cur=TRY +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -WC2%P%s%u%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F  -%l "tr, en, *" http://demogamesfree.pragmaticplay.net/gs2c/openGame.do?gameSymbol=vs20fruitsw&websiteUrl=https%3A%2F%2Fdemogamesfree.pragmaticplay.net&jurisdiction=99&lobby_url=https%3A%2F%2Fwww.pragmaticplay.com%2Fen%2F&lang=TR&cur=TRY -O1 "C:\Users\CASPER\Desktop\bonanza\bon" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+04:54:40	Error: 	"Connect Error" (-4) after 2 retries at link 192.168.10.108:8000/robots.txt (from https://demogamesfree.pragmaticplay.net/gs2c/html5Game.do?extGame=1&symbol=vs20fruitsw&gname=Sweet Bonanza&jurisdictionID=99&mgckey=stylename@generic~SESSION@a1b6319b-0551-4c97-8502-53b557cd4362)
+04:54:41	Warning: 	Retry after error -4 (Connect Error) at link 192.168.10.108:8000/console.php? (from https://demogamesfree.pragmaticplay.net/gs2c/html5Game.do?extGame=1&symbol=vs20fruitsw&gname=Sweet Bonanza&jurisdictionID=99&mgckey=stylename@generic~SESSION@a1b6319b-0551-4c97-8502-53b557cd4362)
+04:54:41	Error: 	"Not Found" (404) at link https://demogamesfree.pragmaticplay.net/gs2c/POST (from https://demogamesfree.pragmaticplay.net/gs2c/html5Game.do?extGame=1&symbol=vs20fruitsw&gname=Sweet Bonanza&jurisdictionID=99&mgckey=stylename@generic~SESSION@a1b6319b-0551-4c97-8502-53b557cd4362)
+04:54:42	Warning: 	unexpected incomplete type with 200 code at https://www.googletagmanager.com/gtag/js?id=G-18F57V2EP0
+04:54:42	Warning: 	file not stored in cache due to bogus state (incomplete type with OK (200), size 216505): https://www.googletagmanager.com/gtag/js?id=G-18F57V2EP0
+04:55:02	Warning: 	Retry after error -4 (Connect Error) at link 192.168.10.108:8000/console.php? (from https://demogamesfree.pragmaticplay.net/gs2c/html5Game.do?extGame=1&symbol=vs20fruitsw&gname=Sweet Bonanza&jurisdictionID=99&mgckey=stylename@generic~SESSION@a1b6319b-0551-4c97-8502-53b557cd4362)
+04:55:23	Error: 	"Connect Error" (-4) after 2 retries at link 192.168.10.108:8000/console.php? (from https://demogamesfree.pragmaticplay.net/gs2c/html5Game.do?extGame=1&symbol=vs20fruitsw&gname=Sweet Bonanza&jurisdictionID=99&mgckey=stylename@generic~SESSION@a1b6319b-0551-4c97-8502-53b557cd4362)
+
+HTTrack Website Copier/3.49-2 mirror complete in 1 minutes 46 seconds : 11 links scanned, 4 files written (347277 bytes overall) [319842 bytes received at 3017 bytes/sec], 77856 bytes transferred using HTTP compression in 2 files, ratio 57%
+(3 errors, 4 warnings, 0 messages)
